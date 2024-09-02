@@ -1,6 +1,6 @@
 <img src="./assets/linkedin_aihawk.png">
 
-<!-- At first glance, the branding and messaging clearly conveys what to expect -->
+<!-- At first glance , the branding and messaging clearly conveys what to expect -->
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-elia-5199951b6/)
